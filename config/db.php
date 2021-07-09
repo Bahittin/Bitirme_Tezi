@@ -4,8 +4,8 @@
 
 $servername = "localhost";
  $username = "root";
-$password = "sence26es";
-$databasename="anit_project";
+$password = "password";
+$databasename="veritabani_ismi";
 
 try {
    $conn = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password,array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
