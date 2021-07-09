@@ -1,4 +1,8 @@
 # Bitirme_Tezi
+# Gereksinimler 
+1.php derleyici
+2.mysql(pdo) 
+3.server(lammp/xammp)
 
 # Nasıl Kullanabilirim
 1.git clone https://github.com/Bahittin/Bitirme_Tezi.git  yazarak projeyi localhosta ekle.
